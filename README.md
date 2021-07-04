@@ -1,6 +1,6 @@
 ### Huadangfan
 
-![Gelbooru](https://count.getloli.com/get/@huadangfan.github.readme?theme=gelbooru)
+![moebooru](https://count.getloli.com/get/@huadangfan.github.readme?theme=moebooru)
 
 <!--
 **Huadangfan/huadangfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
